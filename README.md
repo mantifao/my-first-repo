@@ -2,4 +2,6 @@ Hello!
 
 This is my *first* repo
 
-![](./beaker.gif)
+Incredible Beaker GIF:
+
+![Incredible Beaker GIF](./beaker.gif)
