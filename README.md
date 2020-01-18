@@ -2,4 +2,6 @@ Hello!
 
 This is my *first* repo
 
-![](./beaker.gif)
+The best muppet of all time: Beaker
+
+![The best muppet of all time: Beaker](./beaker.gif)
