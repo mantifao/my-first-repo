@@ -1,7 +1,7 @@
 Hello!
 
 This is my *first* repo
+=
+The best muppet of all time: Beaker
 
-Incredible Beaker GIF:
-
-![Incredible Beaker GIF](./beaker.gif)
+![The best muppet of all time: Beaker](./beaker.gif)
