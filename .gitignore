@@ -1,4 +1,6 @@
 Add Files here to be ignored
 Example:
-__pycache__
 .DS_Store
+
+Or in Python:
+__pycache__
